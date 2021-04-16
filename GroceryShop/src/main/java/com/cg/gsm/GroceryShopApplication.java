@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication(scanBasePackages = "com.cg.gsm")
 public class GroceryShopApplication {
 
+	///HSDKhdka
 	public static void main(String[] args) {
 	SpringApplication.run(GroceryShopApplication.class, args);	
 	}
